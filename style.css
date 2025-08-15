@@ -11,13 +11,13 @@ header{
     border-bottom: solid 2px #a58e63 ;
     margin: 20px;
     font-size: 32px;
-    color: blue;
+    color: black;
 }
 
 section{    
 padding-bottom: 80px;
 padding-top: 80px;
-background: black;
+background: gray;
 display: flex;
 justify-content: center;
 }
@@ -69,5 +69,4 @@ color: #a58e63;
     padding: 20px;
     background-color: #0c0c0c;
     color: #c6a974;
-}
 }
